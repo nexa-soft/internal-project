@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello
-=======
-hello from dev
->>>>>>> de
